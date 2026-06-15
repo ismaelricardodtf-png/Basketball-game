@@ -4,6 +4,24 @@
 <head>
   <title>Basketball Game</title>
   <style>
+  body {
+    font-family: Arial;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background: #87ceeb;
+    overflow-y: auto;
+  }
+
+  #court {
+    position: relative;
+    width: 100vw;
+    height: 70vh;
+    border: 3px solid #333;
+    background: #4caf50;
+  }
+</style>
+  <style>
     body {
       font-family: Arial;
       text-align: center;
