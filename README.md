@@ -1,5 +1,5 @@
 # Basketball-game
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>Basketball Game</title>
