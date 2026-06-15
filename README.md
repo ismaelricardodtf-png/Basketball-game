@@ -7,8 +7,10 @@
     body {
       font-family: Arial;
       text-align: center;
+      margin: 0;
+      padding: 0;
       background: #87ceeb;
-      overflow: hidden;
+      overflow-y: auto;
     }
 
     h1 {
